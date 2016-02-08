@@ -3,11 +3,12 @@ A place where I share tidbits of knowledge, mainly using as a resource for mysel
 
 
 ## CSS
----
-### Overflow
+#### Overflow
 [Resource](http://www.w3schools.com/cssref/pr_pos_overflow.asp)
+
 overflow: visible|hidden|scroll|auto|initial|inherit;
 
-### Something else
+#### Something else
 [Resource](http://www.w3schools.com/cssref/pr_pos_overflow.asp)
+
 overflow: visible|hidden|scroll|auto|initial|inherit;
